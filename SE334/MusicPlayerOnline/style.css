@@ -1,0 +1,55 @@
+body {
+  background-color: #f0f0f5;
+  font-family: Arial, sans-serif;
+}
+#player {
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+}
+.controls button {
+  margin: 0 5px;
+  font-size: 24px;
+}
+#playlist {
+  margin-top: 15px;
+}
+#playlist li {
+  cursor: pointer;
+}
+#playlist li:hover {
+  background-color: #e0e0e5;
+}
+
+/* Dark mode styles */
+.dark-mode {
+  background-color: #222;
+  color: #fff;
+}
+
+.dark-mode .list-group-item {
+  background-color: #333;
+  color: #fff;
+  border-color: #444;
+}
+
+.dark-mode .btn-secondary {
+  background-color: #444;
+  border-color: #555;
+}
+
+.dark-mode .progress {
+  background-color: #444;
+}
+
+.dark-mode #visualizer {
+  border: 1px solid #444;
+}
+
+/* Active states */
+.speed-btn.active,
+.timer-btn.active {
+  background-color: #007bff;
+  color: white;
+}
