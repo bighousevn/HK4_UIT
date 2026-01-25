@@ -1,0 +1,12 @@
+[submodule "java/be"]
+	path = java/be
+	url = https://github.com/Booking-Flight/bookingflight-java.git
+[submodule "Mobile_1"]
+	path = Mobile_1
+	url = https://github.com/NHACTAOHOCBAI/Foodibidy.git
+[submodule "SE334_Chatbot"]
+	path = SE334_Chatbot
+	url = https://github.com/bighousevn/SE334_Chatbot_13.git
+[submodule "NMM/LibraryManagement"]
+	path = NMM/LibraryManagement
+	url = https://github.com/ToanHuynh0201/LibraryManagement.git
