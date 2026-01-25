@@ -10,3 +10,6 @@
 [submodule "java/fe"]
 	path = java/fe
 	url = https://github.com/Booking-Flight/Booking_Flight_FE.git
+[submodule "java/be"]
+	path = java/be
+	url = https://github.com/Booking-Flight/bookingflight-java.git
