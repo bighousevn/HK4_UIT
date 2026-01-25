@@ -7,3 +7,6 @@
 [submodule "NMM/LibraryManagement"]
 	path = NMM/LibraryManagement
 	url = https://github.com/ToanHuynh0201/LibraryManagement.git
+[submodule "Java/be"]
+	path = Java/be
+	url = https://github.com/Booking-Flight/bookingflight-java.git
